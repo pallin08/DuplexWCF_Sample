@@ -1,0 +1,6 @@
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\MessageListener\bin\Debug\MessageListener.exe.config
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\MessageListener\bin\Debug\MessageListener.exe
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\MessageListener\bin\Debug\MessageListener.pdb
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\MessageListener\obj\Debug\MessageListener.csprojResolveAssemblyReference.cache
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\MessageListener\obj\Debug\MessageListener.exe
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\MessageListener\obj\Debug\MessageListener.pdb

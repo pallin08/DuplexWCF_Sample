@@ -1,0 +1,5 @@
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WcfService\bin\Debug\WcfService.dll.config
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WcfService\bin\Debug\WcfService.dll
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WcfService\bin\Debug\WcfService.pdb
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WcfService\obj\Debug\WcfService.dll
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WcfService\obj\Debug\WcfService.pdb

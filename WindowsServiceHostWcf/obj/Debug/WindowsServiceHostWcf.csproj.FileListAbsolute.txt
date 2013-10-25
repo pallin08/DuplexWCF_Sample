@@ -1,0 +1,8 @@
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe.config
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.pdb
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WcfService.dll
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WcfService.pdb
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\obj\Debug\WindowsServiceHostWcf.csprojResolveAssemblyReference.cache
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\obj\Debug\WindowsServiceHostWcf.exe
+c:\users\fabian_sandoval\documents\visual studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\obj\Debug\WindowsServiceHostWcf.pdb

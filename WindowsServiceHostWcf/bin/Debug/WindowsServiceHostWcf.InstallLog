@@ -1,0 +1,108 @@
+﻿Installing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Installing service Duplex WCF Service...
+Service Duplex WCF Service has been successfully installed.
+Creating EventLog source Duplex WCF Service in log Application...
+Committing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Uninstalling assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Removing EventLog source Duplex WCF Service.
+Service Duplex WCF Service is being removed from the system...
+Service Duplex WCF Service was successfully removed from the system.
+Installing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Installing service Duplex WCF Service...
+Creating EventLog source Duplex WCF Service in log Application...
+Rolling back assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Restoring event log to previous state for source Duplex WCF Service.
+Uninstalling assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Removing EventLog source Duplex WCF Service.
+Warning: The source Duplex WCF Service is not registered on the local machine.
+Service Duplex WCF Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Installing service Duplex WCF Service...
+Service Duplex WCF Service has been successfully installed.
+Creating EventLog source Duplex WCF Service in log Application...
+Committing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Uninstalling assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Removing EventLog source Duplex WCF Service.
+Service Duplex WCF Service is being removed from the system...
+Service Duplex WCF Service was successfully removed from the system.
+Installing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Installing service Duplex WCF Service...
+Service Duplex WCF Service has been successfully installed.
+Creating EventLog source Duplex WCF Service in log Application...
+Committing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Uninstalling assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Removing EventLog source Duplex WCF Service.
+Service Duplex WCF Service is being removed from the system...
+Service Duplex WCF Service was successfully removed from the system.
+Installing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Installing service Duplex WCF Service...
+Service Duplex WCF Service has been successfully installed.
+Creating EventLog source Duplex WCF Service in log Application...
+Committing assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Uninstalling assembly 'C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.InstallLog
+   assemblypath = C:\Users\fabian_sandoval\Documents\Visual Studio 2012\Projects\DuplexWCF_Sample\WindowsServiceHostWcf\bin\Debug\WindowsServiceHostWcf.exe
+Removing EventLog source Duplex WCF Service.
+Service Duplex WCF Service is being removed from the system...
+Service Duplex WCF Service was successfully removed from the system.
